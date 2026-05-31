@@ -61,9 +61,12 @@ npx nodemon server.js
 
 ### Estructura del proyecto
 
-![Estructura](screenshots/estructura-proyecto.png)git add .
+![Estructura](screenshots/estructura-proyecto.png)
+
+git add .
 
 git commit -m "Agregar capturas al README"
+
 git push
 
 
