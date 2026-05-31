@@ -49,6 +49,26 @@ npx nodemon server.js
 - PUT /api/productos/:id
 - DELETE /api/productos/:id
 
+## Capturas
+
+### API funcionando en Postman
+
+![Postman](screenshots/postman-get-productos.png)
+
+### Base de datos MySQL
+
+![MySQL](screenshots/mysql-tablas.png)
+
+### Estructura del proyecto
+
+![Estructura](screenshots/estructura-proyecto.png)git add .
+git commit -m "Agregar capturas al README"
+git push
+
+
 ## Autor
+
+
+
 
 Dayron García
